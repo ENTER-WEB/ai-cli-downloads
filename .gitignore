@@ -1,0 +1,14 @@
+.wrangler/
+node_modules/
+output/
+.playwright-cli/
+.impeccable/
+*.exe
+*.zip
+*.bundle
+*.log
+.env*
+*.key
+*.pem
+*.pfx
+__pycache__/

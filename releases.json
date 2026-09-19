@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "repository": "ENTER-WEB/ai-cli-downloads",
+  "pagesProject": "vaizo-ai-setup",
+  "products": [
+    {
+      "id": "codex",
+      "name": "Codex CLI",
+      "version": "0.1.0-rc.6",
+      "sourceDirectory": "windows-codex-setup",
+      "file": "CodexEnvironmentSetup-0.1.0-rc.6.exe",
+      "sha256": "d0154e6c5c0e536beae8f615a5dea6ba63e1c6733cc56da32644dd87fc1accee",
+      "bytes": 160256,
+      "tag": "codex-0.1.0-rc.6",
+      "signed": false,
+      "description": "Codex CLIと、文書・表・PDF・ブラウザ操作に使う環境をまとめて準備します。",
+      "changes": ["Codexの更新後、セットアップが以前の版へ戻してしまう問題を修正しました。", "新しく開いたターミナルからcodexを起動できるよう、ユーザーPATHと起動コマンドを整備しています。"]
+    },
+    {
+      "id": "claude",
+      "name": "Claude Code CLI",
+      "version": "0.1.0-rc.1",
+      "sourceDirectory": "windows-claude-setup",
+      "file": "ClaudeCodeEnvironmentSetup-0.1.0-rc.1.exe",
+      "sha256": "c4fa91772bafff1eec058af579abf6be317ccccdb41911634d8e5b7a07bd04fe",
+      "bytes": 156160,
+      "tag": "claude-0.1.0-rc.1",
+      "signed": false,
+      "description": "Claude Codeの公式ネイティブ版と、文書・表・PDF・ブラウザ操作に使う環境を準備します。",
+      "changes": ["Claude Code向けのWindows環境セットアップを公開しました。", "公式の起動ファイルと更新機能を使い、再セットアップ時も正常な既存版を保持します。"]
+    }
+  ]
+}

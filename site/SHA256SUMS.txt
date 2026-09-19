@@ -1,0 +1,2 @@
+d0154e6c5c0e536beae8f615a5dea6ba63e1c6733cc56da32644dd87fc1accee  CodexEnvironmentSetup-0.1.0-rc.6.exe
+c4fa91772bafff1eec058af579abf6be317ccccdb41911634d8e5b7a07bd04fe  ClaudeCodeEnvironmentSetup-0.1.0-rc.1.exe
